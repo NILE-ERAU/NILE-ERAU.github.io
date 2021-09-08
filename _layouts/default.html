@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
+  
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -17,9 +18,11 @@
     <link rel="icon" type="image/png" href="/assets/favicon-32x32.png" sizes="32x32" />
     <link rel="icon" type="image/png" href="/assets/favicon-16x16.png" sizes="16x16" />
 
-  </head>
+  </head>\
+  
   <body>
     <div class="wrapper">
+      
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
@@ -27,20 +30,25 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p>
-          {{ site.description | default: site.github.project_tagline }}
-          A senior design project by Embry-Riddle Robotics students.
-        </p>
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <p></p>
+        <p>A senior design project by Embry-Riddle Robotics students.</p>
       </header>
+      
       <section>
 
       {{ content }}
 
       </section>
+      
       <footer>
         <p><small><a href="http://robotics.pr.erau.edu/">ERAU-Prescott Robotics</a></small></p>
       </footer>
+      
     </div>
+    
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    
   </body>
+  
 </html>
