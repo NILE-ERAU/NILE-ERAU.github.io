@@ -13,4 +13,4 @@ _Coming soon_
 - Nicodemus Phaklides
 - Jacob Woodruff
 - Emmanuel Jefferson
-- Alex Hoppe
+- [Alex Hoppe](http://hoppe.space/), Mechanical Engineering, Robotics
