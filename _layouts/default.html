@@ -27,7 +27,10 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <p>
+          {{ site.description | default: site.github.project_tagline }}
+          A senior design project by Embry-Riddle Robotics students.
+        </p>
       </header>
       <section>
 
@@ -35,10 +38,7 @@
 
       </section>
       <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p><small>A senior design project by Embry-Riddle Robotics students.</small></p>
+        <p><small><a href="http://robotics.pr.erau.edu/">ERAU-Prescott Robotics</a></small></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
