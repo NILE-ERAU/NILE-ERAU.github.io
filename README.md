@@ -8,6 +8,10 @@ This is where the NILE project comes in. Through our unique, robotic approach to
 
 _Coming soon_
 
+### Technical Documents
+
+_Also coming soon_
+
 ### The Team
 - Tianna Mckenzi
 - Nicodemus Phaklides
