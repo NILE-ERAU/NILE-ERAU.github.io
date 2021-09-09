@@ -17,5 +17,5 @@ _Also coming soon_
 - Nicodemus Phaklides (Electrical Engineering, Robotics)
 - Lachlan McManus (Mechanical Engineering, Robotics)
 - Jacob Woodruff (Mechanical Engineering, Robotics)
-- Emmanuel Jefferson (Computer Science Engineering, Robotics)
+- Emmanuel Jefferson (Computer Engineering, Robotics)
 - [Alex Hoppe](http://hoppe.space/) (Mechanical Engineering, Robotics)
