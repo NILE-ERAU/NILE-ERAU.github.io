@@ -14,7 +14,7 @@ _Also coming soon_
 
 ### The Team
 - Tianna Mckenzi
-- Nicodemus Phaklides
+- Nicodemus Phaklides (Electrical Engineering, Robotics)
 - Lachlan McManus
 - Jacob Woodruff
 - Emmanuel Jefferson
