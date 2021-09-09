@@ -13,9 +13,9 @@ _Coming soon_
 _Also coming soon_
 
 ### The Team
-- Tia McKenzie (Mechanical Engineering, Robotics)
+- Tia McKenzie        (Mechanical Engineering, Robotics)
 - Nicodemus Phaklides (Electrical Engineering, Robotics)
-- Lachlan McManus (Mechanical Engineering, Robotics)
-- Jacob Woodruff (Mechanical Engineering, Robotics)
-- Emmanuel Jefferson (Computer Engineering, Robotics)
-- [Alex Hoppe](http://hoppe.space/) (Mechanical Engineering, Robotics)
+- Lachlan McManus     (Mechanical Engineering, Robotics)
+- Jacob Woodruff      (Mechanical Engineering, Robotics)
+- Emmanuel Jefferson  (Computer Engineering,   Robotics)
+- Alex Hoppe          (Mechanical Engineering, Robotics)
