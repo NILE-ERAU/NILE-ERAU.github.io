@@ -15,6 +15,7 @@ _Also coming soon_
 ### The Team
 - Tianna Mckenzi
 - Nicodemus Phaklides
+- Lachlan McManus
 - Jacob Woodruff
 - Emmanuel Jefferson
 - [Alex Hoppe](http://hoppe.space/) (Mechanical Engineering, Robotics)
