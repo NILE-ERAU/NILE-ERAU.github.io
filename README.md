@@ -6,7 +6,7 @@ This is where the NILE project comes in. Through our unique, robotic approach to
 
 ### Blog Posts
 
-- 9/10/21: _[Our first blog post!](./blog/9-10-21.html)_
+- 9-10-21: _[Our first blog post!](./blog/9-10-21.html)_
 
 ### Technical Documents
 
