@@ -18,4 +18,4 @@ _Also coming soon_
 - Lachlan McManus     (ME-Robotics)
 - Jacob Woodruff      (ME-Robotics)
 - Emmanuel Jefferson  (CE-Robotics)
-- Alexander Hoppe          (ME-Robotics)
+- Alexander Hoppe     (ME-Robotics)
