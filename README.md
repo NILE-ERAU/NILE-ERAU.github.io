@@ -6,7 +6,7 @@ This is where the NILE project comes in. Through our unique, robotic approach to
 
 ### Blog Posts
 
-_Coming soon_
+_[Coming soon](./blog/week2.html)_
 
 ### Technical Documents
 
