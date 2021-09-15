@@ -10,7 +10,7 @@ This is where the NILE project comes in. Through our unique, robotic approach to
 
 ### Technical Documents
 
-_Also coming soon_
+- [System Requirements](./assets/NILE_Requirements.pdf)
 
 ### The Team
 - Tia McKenzie        (ME-Robotics)
