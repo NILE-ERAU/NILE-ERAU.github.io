@@ -15,7 +15,7 @@ This is where the NILE project comes in. Through our unique, robotic approach to
 ### Technical Documents
 
 - [System Requirements](./assets/NILE_Requirements.pdf)
-- [Conceptual Design](./assets/NILE_Conceptual-Design.pdf)
+- [Conceptual Design](./assets/NILE_Conceptual_Design.pdf)
 
 ### The Team
 - Tia McKenzie        (ME-Robotics)
