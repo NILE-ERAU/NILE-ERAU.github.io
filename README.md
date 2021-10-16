@@ -11,6 +11,7 @@ This is where the NILE project comes in. Through our unique, robotic approach to
 - 9-24-21: _[Conceptual Design - Part 1](./blog/9-24-21.html)_
 - 10-1-21: _[Conceptual Design - Part 2](./blog/10-1-21.html)_
 - 10-8-21: _[Conceptual Design - Part 3](./blog/10-8-21.html)_
+- 10-15-21: _[Specifications - Part 1](./blog/10-15-21.html)_
 
 ### Technical Documents
 
