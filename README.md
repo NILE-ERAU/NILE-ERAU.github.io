@@ -17,11 +17,11 @@ This is where the NILE project comes in. Through our unique, robotic approach to
 
 ### Technical Documents
 
-- [System Requirements](./assets/NILE_Requirements.pdf)
 - [Conceptual Design](./assets/NILE_Conceptual_Design.pdf)
+- [System Requirements](./assets/NILE_Requirements.pdf)
 - [System Specifications](./assets/NILE_Specifications.pdf)
 
-### [The Team](./blog/9-10-21.html)
+### The Team
 - Tia McKenzie        (ME-Robotics)
 - Nicodemus Phaklides (EE-Robotics)
 - Lachlan McManus     (ME-Robotics)
