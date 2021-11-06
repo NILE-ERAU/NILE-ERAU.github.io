@@ -6,6 +6,7 @@ This is where the NILE project comes in. Through our unique, robotic approach to
 
 ### Weekly Project Updates
 
+- 11-5-21: [Preliminary Design Begins](./blog/11-5-21.html)
 - 10-29-21: _[Specifications - Part 3](./blog/10-29-21.html)_
 - 10-22-21: _[Specifications - Part 2](./blog/10-22-21.html)_
 - 10-15-21: _[Specifications - Part 1](./blog/10-15-21.html)_
