@@ -6,6 +6,7 @@ This is where the NILE project comes in. Through our unique, robotic approach to
 
 ### Weekly Project Updates
 
+- 12-3-21: _[Preliminary Design Review](./blog/12-10-21.html)_
 - 12-3-21: _[Calm Before the Storm](./blog/12-3-21.html)_
 - 11-12-21: _[First Major Design Push](./blog/11-12-21.html)_
 - 11-5-21: _[Preliminary Design Begins](./blog/11-5-21.html)_
@@ -20,9 +21,10 @@ This is where the NILE project comes in. Through our unique, robotic approach to
 
 ### Technical Documents
 
+- [Preliminary Design Document](./assets/NILE_Preliminary_Design.pdf)
+- [System Specifications](./assets/NILE_Specifications.pdf)
 - [Conceptual Design](./assets/NILE_Conceptual_Design.pdf)
 - [System Requirements](./assets/NILE_Requirements.pdf)
-- [System Specifications](./assets/NILE_Specifications.pdf)
 
 ### The Team
 - Tia McKenzie        (ME-Robotics)
