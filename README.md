@@ -22,6 +22,7 @@ This is where the NILE project comes in. Through our unique, robotic approach to
 ### Technical Documents
 
 - [Preliminary Design Document](./assets/NILE_Preliminary_Design.pdf)
+- [Preliminary Mechanical Drawing Package](./assets/NILE_Preliminary_Drawing_Package.pdf)
 - [System Specifications](./assets/NILE_Specifications.pdf)
 - [Conceptual Design](./assets/NILE_Conceptual_Design.pdf)
 - [System Requirements](./assets/NILE_Requirements.pdf)
