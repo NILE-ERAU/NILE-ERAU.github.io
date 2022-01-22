@@ -7,8 +7,8 @@ This is where the NILE project comes in. Through our unique, robotic approach to
 ### Weekly Project Updates
 
 2022 - Detailed Design
-- 1-14-22: _[Planning the Path Ahead](./blog/1-14-22.html)_
 - 1-21-22: _[Big Week! We purchased our parts!](./blog/1-21-22.html)_
+- 1-14-22: _[Planning the Path Ahead](./blog/1-14-22.html)_
 
 2021 - Preliminary Design
 - 12-10-21: _[Preliminary Design Review](./blog/12-10-21.html)_
