@@ -1,0 +1,9 @@
+## 1-14-22: Supply Chain Woes, Sparks, & AI
+
+Who knew parts acquisition could be such a hassle? Due to the volatile supply chain, some key components integrated in our design were out of stock indefinitely, prompting some design adjustments. In the meantime, Nicodemus reached a milestone with our High Voltage Elimination Circuit (HVEC). 
+
+![Semester Start Gantt Chart](./../assets/HVEC_demo.gif)
+
+Simultaneously, significant strides have been made on the software front. After dynamically linking our system computer directly to a Github repository, Emmanuel dove straight into the advanced principles of machine learning. Starting small, he focused on small-scale implementations of artificial neural networks, experimenting with concepts such as and back-propagation for training an algorithm to learn the basic bitwise operations of OR, AND, and XOR. Although a system capable of classifying plants and weeds is exponentially more complicated than mere binary tables, the same principles govern both implementations and these minor steppingstones are bringing the end goal within our scopes!
+
+[back](./..)
