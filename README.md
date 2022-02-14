@@ -7,6 +7,7 @@ This is where the NILE project comes in. Through our unique, robotic approach to
 ### Weekly Project Updates
 
 2022 - Detailed Design
+- 2-11-22: _[Machine Learning moving faster than the truck with our parts :(](./blog/2-11-22.html)_
 - 2-4-22: _[We Made Stuff!](./blog/2-4-22.html)_
 - 1-28-22: _[Supply Chain Woes, Sparks, & AI](./blog/1-28-22.html)_
 - 1-21-22: _[Big Week! We purchased our parts!](./blog/1-21-22.html)_
