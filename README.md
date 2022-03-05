@@ -7,7 +7,7 @@ This is where the NILE project comes in. Through our unique, robotic approach to
 ### Weekly Project Updates
 
 2022 - Detailed Design
-- 2-25-22: _[Published Authors!](./blog/3-4-22.html)_
+- 3-4-22: _[Published Authors!](./blog/3-4-22.html)_
 - 2-25-22: _[Snow and Steady](./blog/2-25-22.html)_
 - 2-18-22: _[Integration, Finally!](./blog/2-18-22.html)_
 - 2-11-22: _[Machine Learning Faster Than the Truck with Our Parts](./blog/2-11-22.html)_
