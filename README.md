@@ -7,6 +7,7 @@ This is where the NILE project comes in. Through our unique, robotic approach to
 ### Weekly Project Updates
 
 2022 - Detailed Design
+- 4-22-22: _[The Rise of A.I.](./blog/4-22-22.html)_
 - 4-15-22:  _[Put to the Test](./blog/4-15-22.html)_
 - 4-8-22:   _[How to Become a Full-Stack Web Developer in a Week or Less](./blog/4-8-22.html)_
 - 4-1-22:   _[Introducing Project Hindsight](./blog/4-1-22.html)_
