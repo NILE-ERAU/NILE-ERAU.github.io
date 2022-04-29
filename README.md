@@ -1,5 +1,7 @@
 ## Welcome to NILE
 
+![The NILE Robot](./assets/robot.jpg)
+
 Conventional agricultural methods overcompensate plant and soil needs through wasteful watering practices and excessive application of pesticides and fertilizers, leading to substantial environmental damage. This damage takes on various forms, including pollution via runoff, soil depletion, and the extinction of local pollinators.
 
 This is where the NILE project comes in. Through our unique, robotic approach to agriculture we aim to precisely care for, and monitor the health of, various crops.
@@ -37,11 +39,16 @@ This is where the NILE project comes in. Through our unique, robotic approach to
 
 ### Technical Documents
 
+- [IEEE SusTech Conference Paper](./assets/Novel_Robotic_Approach_to_Irrigation_and_Agricultural_Land_Use_Efficiency.pdf)
+- [Detail Design Document](./assets/NILE_Detail_Design.pdf)
 - [Preliminary Design Document](./assets/NILE_Preliminary_Design.pdf)
-- [Preliminary Mechanical Drawing Package](./assets/NILE_Preliminary_Drawing_Package.pdf)
-- [System Specifications](./assets/NILE_Specifications.pdf)
-- [Conceptual Design](./assets/NILE_Conceptual_Design.pdf)
-- [System Requirements](./assets/NILE_Requirements.pdf)
+- [Conceptual Design Document](./assets/NILE_Conceptual_Design.pdf)
+
+### Technical Resources
+
+- [CAD and PCB Files](https://github.com/NILE-ERAU/NILE_Hardware)
+- [Main Software Repository](https://github.com/NILE-ERAU/gitrepo)
+- [Control Website Repository](https://github.com/NILE-ERAU/NILE_Website)
 
 ### The Team
 ![The NILE Team](./assets/team.jpg)
