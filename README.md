@@ -52,9 +52,9 @@ This is where the NILE project comes in. Through our unique, robotic approach to
 
 ### The Team
 ![The NILE Team](./assets/team.jpg)
-- Lachlan McManus     (ME-Robotics)
-- Tia McKenzie        (ME-Robotics)
-- Nicodemus Phaklides (EE-Robotics)
-- Emmanuel Jefferson  (CE-Robotics)
-- Alexander Hoppe     (ME-Robotics)
 - Jacob Woodruff      (ME-Robotics)
+- Lachlan McManus     (ME-Robotics)
+- Alexander Hoppe     (ME-Robotics)
+- Emmanuel Jefferson  (CE-Robotics)
+- Nicodemus Phaklides (EE-Robotics)
+- Tia McKenzie        (ME-Robotics)
