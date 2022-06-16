@@ -6,6 +6,8 @@ Conventional agricultural methods overcompensate plant and soil needs through wa
 
 This is where the NILE project comes in. Through our unique, robotic approach to agriculture we aim to precisely care for, and monitor the health of, various crops.
 
+Our research has been published in the _[2022 IEEE SusTech Conference](https://ieeexplore.ieee.org/document/9794265)_
+
 ### Weekly Project Updates
 
 2022 - Detailed Design
